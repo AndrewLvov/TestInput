@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 def main():
     name = input("Назовитесь: ")
     try:
